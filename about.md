@@ -12,17 +12,17 @@ header-img: "img/green.jpg"
 
 ##尝试
   
-  what is nature of my life?
-  I have no idea.
-  So I choose to change.
-  CHANGE
-  Maybe I will have a good ending.
-  Maybe I have to change all the time.
-  So what?
-  Lose my dream,lose everything.
-  The only thing I know:
-  I always
-  on the way
+  what is nature of my life?</br>
+  I have no idea.</br>
+  So I choose to change.</br>
+  CHANGE</br>
+  Maybe I will have a good ending.</br>
+  Maybe I have to change all the time.</br>
+  So what?</br>
+  Lose my dream,lose everything.</br>
+  The only thing I know:</br>
+  I always</br>
+  on the way</br>
 
 
 <center>
