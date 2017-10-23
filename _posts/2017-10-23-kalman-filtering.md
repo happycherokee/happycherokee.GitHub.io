@@ -6,4 +6,4 @@ categories: blog
 
 ---
 
-"assets/1.jpg"
+![Alt text](/assets/1.jpg)
