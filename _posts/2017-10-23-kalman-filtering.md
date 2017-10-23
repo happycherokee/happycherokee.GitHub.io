@@ -6,4 +6,4 @@ categories: blog
 
 ---
 
-{{ site.url }}/assets/1.jpg
+"assets/1.jpg"
