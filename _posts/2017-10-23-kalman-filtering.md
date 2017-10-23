@@ -6,5 +6,5 @@ categories: blog
 
 ---
 
-![Alt text](/assets/1.jpg)
+![Alt text](/assets/1.jpg)  
 ![Alt text](/assets/2.jpg)
