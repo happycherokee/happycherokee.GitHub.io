@@ -43,4 +43,14 @@
     })();
     </script>
 
+    <script type="text/javascript">
+    if (localStorage.pagecount)
+    {
+        localStorage.pagecount=Number(localStorage.pagecount) +1;
+    }else{
+        localStorage.pagecount=1;
+    }
+    document.write("访问数: " + localStorage.pagecount + " time(s).");
+    </script>
+    
 </head>
